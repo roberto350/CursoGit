@@ -1,0 +1,15 @@
+/workspaces/CursoGit/appConsole/bin/Debug/net8.0/appConsole
+/workspaces/CursoGit/appConsole/bin/Debug/net8.0/appConsole.deps.json
+/workspaces/CursoGit/appConsole/bin/Debug/net8.0/appConsole.runtimeconfig.json
+/workspaces/CursoGit/appConsole/bin/Debug/net8.0/appConsole.dll
+/workspaces/CursoGit/appConsole/bin/Debug/net8.0/appConsole.pdb
+/workspaces/CursoGit/appConsole/obj/Debug/net8.0/appConsole.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CursoGit/appConsole/obj/Debug/net8.0/appConsole.AssemblyInfoInputs.cache
+/workspaces/CursoGit/appConsole/obj/Debug/net8.0/appConsole.AssemblyInfo.cs
+/workspaces/CursoGit/appConsole/obj/Debug/net8.0/appConsole.csproj.CoreCompileInputs.cache
+/workspaces/CursoGit/appConsole/obj/Debug/net8.0/appConsole.sourcelink.json
+/workspaces/CursoGit/appConsole/obj/Debug/net8.0/appConsole.dll
+/workspaces/CursoGit/appConsole/obj/Debug/net8.0/refint/appConsole.dll
+/workspaces/CursoGit/appConsole/obj/Debug/net8.0/appConsole.pdb
+/workspaces/CursoGit/appConsole/obj/Debug/net8.0/appConsole.genruntimeconfig.cache
+/workspaces/CursoGit/appConsole/obj/Debug/net8.0/ref/appConsole.dll
